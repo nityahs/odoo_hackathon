@@ -1,10 +1,10 @@
-# odoo_hackathon
-#Team Name
+# Odoo Hackathon
+# Team Name
 Random.random()
-#Team Mate:
+# Team Mate:
 Nitya Shah
 Adit Khandelwal
 Suhani Pugalia
 Athang Yawalkar
-#Problem Selcted:
+# Problem Selcted:
 StackIt
